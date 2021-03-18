@@ -1,0 +1,7 @@
+First name= wendwesen
+last name abebe
+id:1341
+Year:2013 E.c
+section:B
+Semister:II
+
